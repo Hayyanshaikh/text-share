@@ -1,0 +1,20 @@
+1. Landing Page:
+   - Yeh pehla page hoga jise users dekhenge jab woh website pe aayenge.
+   - Ismein SharePad ki introduction hogi aur uske key features briefly explain kiye jayenge.
+   - Ek prominent "Explore" button hoga jo users ko encourage karega website ko explore karne ke liye.
+
+2. Dashboard:
+   - Landing page ke baad, users dashboard pe redirect honge.
+   - Dashboard pe users ke uploaded texts, folders (if any), aur search aur filter option dikhayi denge.
+   - Users ko new text upload karne aur folders create karne ke liye options milenge.
+
+3. Text Upload / Edit Page:
+   - Yeh page users ko new text upload karne aur existing text ko edit karne ke liye hoga.
+   - Ismein text editor hoga jahan users apna content enter kar sakenge aur formatting options milenge.
+
+4. Text Viewing / Sharing Page:
+   - Jab user dashboard se kisi text pe click karega, use yeh page dikhega jahan text reader-friendly format mein dikhega.
+   - Ismein text ko share karne ke options honge, aur privacy settings specify karne ke liye choice di jayegi.
+
+5. Collaboration (Optional):
+   - Agar collaboration ek key feature hai, toh ek alag page ya section hoga jahan collaborative texts aur users ke contributions manage kiye jayenge.

@@ -1,0 +1,30 @@
+===============================
+SharePad Website Documentation
+===============================
+
+1. Introduction:
+SharePad ek aasan tareeqe se istemal hone wali platform hai jo users ko text-based content ko aasani se share aur collaborate karne ki ijazat deta hai. Yeh platform likhne wale, taleemi maqsad ke liye aur un logon ke liye mufeed hai jo likhi hui cheezon par saath mein kaam karna chahte hain.
+
+2. Shuruat kaise karen:
+- SharePad ko istemal karne ke liye, hamari website www.SharePad.com par jayen.
+- Agar aap naye user hain, "Sign Up" button par click kar ke ek account banayen. Pehle se mawjood users apni credentials se login kar sakte hain.
+- Jab aap login karte hain, aapko dashboard par le jaya jayega, jahan par aap apne shared texts dekh sakte hain aur doosron ke saath collaborate kar sakte hain.
+
+3. Text Upload aur Share kaise karen:
+- Naye text ko upload karne ke liye, dashboard par "Upload" button par click karen.
+- Text file ko choose karen ya text ko diye gaye text box mein paste karen.
+- Sharing settings ko chunen (public, private, ya specific users) aur "Share" par click kar ke text ko dusron ke liye accessible banayen.
+
+4. Texts ka Manage karna:
+- Shared text ko edit karne ke liye, dashboard se text ko kholen aur "Edit" button par click karen.
+- Zaroori tabdeeliyan karen aur updated text ko save karen.
+- Text ko delete karne ke liye, dashboard se text ko select karen aur "Delete" button par click karen.
+
+5. Collaboration:
+- SharePad asli waqt mein collaboration ko support karta hai, jisse kai users ek hi text par saath mein kaam kar sakte hain.
+- Collaborate karne ke liye, apne shared text ko dusron ko unke usernames ya email addresses se invite karen.
+- Collaborators mil kar text par ek saath kaam kar sakte hain aur real-time changes dekh sakte hain.
+
+6. Search aur Filtering:
+- Dashboard par diye gaye search bar ka istemal kar ke kisi bhi text ko title ya content ke hisab se search karen.
+- Tareekh, likhne wale ke hisab se ya tags ka istemal kar ke apne search results ko refine karen.
